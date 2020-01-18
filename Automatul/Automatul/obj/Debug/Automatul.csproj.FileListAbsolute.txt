@@ -1,0 +1,6 @@
+C:\Users\silvia1\Desktop\Proiecte ASC\Automatul\Automatul\bin\Debug\Automatul.exe.config
+C:\Users\silvia1\Desktop\Proiecte ASC\Automatul\Automatul\bin\Debug\Automatul.exe
+C:\Users\silvia1\Desktop\Proiecte ASC\Automatul\Automatul\bin\Debug\Automatul.pdb
+C:\Users\silvia1\Desktop\Proiecte ASC\Automatul\Automatul\obj\Debug\Automatul.csprojAssemblyReference.cache
+C:\Users\silvia1\Desktop\Proiecte ASC\Automatul\Automatul\obj\Debug\Automatul.exe
+C:\Users\silvia1\Desktop\Proiecte ASC\Automatul\Automatul\obj\Debug\Automatul.pdb
